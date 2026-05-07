@@ -38,7 +38,7 @@ The main objective of this project is to extract property data, transform raw da
 - Performed data analysis
 - Built interactive dashboards for visualization
 
-##Dashboard Insights
+##Dashboard Insights(https://github.com/ahmmedhisham35-sudo/Real-Estate-Data-Analysis-Project/blob/main/Screenshot%202025-12-04%20143624.png)
 - Property price distribution
 - Location-wise property analysis
 - Area vs Price comparison
