@@ -15,7 +15,6 @@ The main objective of this project is to extract property data, transform raw da
 - Exploratory Data Analysis (EDA)
 - Interactive Dashboard Creation
 - CSV Export for further analysis
-- 
 ##Tools Used
 -**Programming & Libraries**
 -**Python**
